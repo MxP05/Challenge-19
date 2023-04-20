@@ -49,9 +49,9 @@ generates a digital wallet, which access, your Ethereum account balances, sign a
 * Step 5: Review the transaction hash code associated with the validated blockchain transaction.
 
 
-*Sequential summary , and results*
-![Sequential summary](https://github.com/MxP05/Challenge-13/blob/main/Resources/im1.png?raw=true)
-![Results](https://github.com/MxP05/Challenge-13/blob/main/Resources/im2.png?raw=true)
+*Ganache main and transaction page*
+![Ganache main page](https://github.com/MxP05/Challenge-19/blob/main/Images/ganacheeth.png?raw=true)
+![Ganache transactions page](https://github.com/MxP05/Challenge-19/blob/main/Images/Ganachetransact.png?raw=true)
 ---
 
 ## Contributors
